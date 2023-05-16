@@ -2,6 +2,10 @@
 
 ## Unveiling Harry Potter's Secrets with Single-Line Answer
 
+### Check the Hugging Face space [here](https://huggingface.co/spaces/Bakar31/PotterQuest)
+
+----------------
+
 ## Overview:
 
 The world of Harry Potter is filled with captivating stories, intricate details, and a vast array of characters and events. `PotterQuest` offers a streamlined approach to explore and uncover the secrets hidden within the Harry Potter series. It aims to provide users with a comprehensive and efficient tool for answering Harry Potter-related questions using a single-line response. By leveraging the power of the open-source Large Language Model and a vector database, PotterQuest extracts answers from the rich content of the Harry Potter books. It has achieved impressive results without relying on any fancy external APIs. With a single-line answer, users can quickly find relevant information for their queries, allowing them to delve deeper into the magical universe created by **J.K. Rowling**. The project utilizes the *Gradio* framework to provide a user-friendly frontend for easy interaction.
